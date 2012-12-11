@@ -39,3 +39,10 @@ rm -rf %{buildroot}
 %{python_sitearch}/%{oname}.so
 %{python_sitearch}/python_%{oname}-%{version}-py%{py_ver}.egg-info
 
+
+
+%changelog
+* Mon Oct 31 2011 Andrey Bondrov <abondrov@mandriva.org> 0.7.3-1
++ Revision: 708036
+- imported package python-osmgpsmap
+
