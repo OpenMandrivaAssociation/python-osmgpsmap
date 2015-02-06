@@ -2,7 +2,7 @@
 
 Name:		python-%{oname}
 Version:	0.7.3
-Release:	%mkrel 1
+Release:	2
 Summary:	Python bindings for osm-gps-map GTK+ widget
 Group:		Development/Python
 License:	GPLv2
