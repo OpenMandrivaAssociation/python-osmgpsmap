@@ -6,7 +6,7 @@ Release:	2
 Summary:	Python bindings for osm-gps-map GTK+ widget
 Group:		Development/Python
 License:	GPLv2
-URL:		http://nzjrs.github.com/osm-gps-map/
+URL:		https://nzjrs.github.com/osm-gps-map/
 Source0:	http://www.johnstowers.co.nz/files/osm-gps-map/%{name}-%{version}.tar.gz
 BuildRequires:	osm-gps-map-devel
 BuildRequires:	python-gobject-devel
